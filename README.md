@@ -9,9 +9,8 @@ Hello! Welcome to my professional portfolio. This repository serves as a showcas
 #### **Foundational IT & System Administration**
 * **[HomeLabNetwork](https://github.com/hussainali0817/HomeLabNetwork)**
     * This project demonstrates my foundational skills in networking and system administration. It covers setting up a home lab network, configuring IP addresses, and troubleshooting connectivity issues in a simulated environment.
-* **Active Directory & Group Policy Lab**
-    * **Status:** In Progress
-    * This project focuses on enterprise user management and security. It will showcase my hands-on experience in creating Active Directory users and groups and enforcing security policies with Group Policy Objects (GPOs).
+* **[Help Desk Lab: Active Directory Fundamentals](https://github.com/hussainali0817/Help-Desk-Fundamentals)**
+    * This project focuses on essential Active Directory skills for an entry-level help desk role, including user management, password resets, and organizing resources with Organizational Units (OUs).
 
 #### **Cloud & Cybersecurity**
 * **[AWS Static Website & VPC Project](https://github.com/hussainali0817/Week1-AWS-WebApp)**
