@@ -7,12 +7,14 @@ Hello! Welcome to my professional portfolio. This repository serves as a showcas
 ### **Projects**
 
 #### **Foundational IT & System Administration**
-* **[HomeLabNetwork](https://github.com/hussainali0817/HomeLabNetwork)**
-    * This project demonstrates my foundational skills in networking and system administration. It covers setting up a home lab network, configuring IP addresses, and troubleshooting connectivity issues in a simulated environment.
-* **[Help Desk Lab: Active Directory Fundamentals](https://github.com/hussainali0817/Help-Desk-Fundamentals)**
-    * This project focuses on essential Active Directory skills for an entry-level help desk role, including user management, password resets, and organizing resources with Organizational Units (OUs).
+* **[Active Directory & Group Policy Lab](https://github.com/hussainali0817/Active-Directory-Lab)**
+    * This project focuses on enterprise user management and security. It showcases my hands-on experience in creating Active Directory users and groups and enforcing security policies with Group Policy Objects (GPOs).
+* **[Help Desk Fundamentals](https://github.com/hussainali0817/Help-Desk-Fundamentals)**
+    * This project demonstrates essential Active Directory skills for an entry-level help desk role, including user management, password resets, and organizing resources with Organizational Units (OUs).
 
 #### **Cloud & Cybersecurity**
+* **[HomeLabNetwork](https://github.com/hussainali0817/HomeLabNetwork)**
+    * This project demonstrates my foundational skills in networking and system administration. It covers setting up a home lab network, configuring IP addresses, and troubleshooting connectivity issues in a simulated environment.
 * **[AWS Static Website & VPC Project](https://github.com/hussainali0817/Week1-AWS-WebApp)**
     * This project proves my proficiency with core AWS cloud services. It documents the process of deploying a static website and configuring a Virtual Private Cloud (VPC) with security groups to control network traffic.
 
